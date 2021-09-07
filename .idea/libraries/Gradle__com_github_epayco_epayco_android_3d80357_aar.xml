@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.epayco:epayco-android:3d80357@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/abdbdd53a01e57b33db584a9ec461022/transformed/jetified-epayco-android-3d80357/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/abdbdd53a01e57b33db584a9ec461022/transformed/jetified-epayco-android-3d80357/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/abdbdd53a01e57b33db584a9ec461022/transformed/jetified-epayco-android-3d80357/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/abdbdd53a01e57b33db584a9ec461022/transformed/jetified-epayco-android-3d80357/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.epayco/epayco-android/3d80357/546ce0c53faa664815f7ef916f3899ec2d7e1f8a/epayco-android-3d80357-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
